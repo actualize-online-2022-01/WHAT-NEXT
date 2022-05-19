@@ -50,7 +50,7 @@ Lastly, publish your capstone project on Heroku and Netlify!
 Don’t have any idea what to build? I gotchu! Here are some ideas for projects to work on:
 
 ## Backend Applications (APIs - no frontend!)
-I struggled to put together ideas for backend APIs - there's a good chance I fill this in more in the coming days/weeks, but for now I will leave this section relativley bare. SO many companies these days build their business models around APIs as a product. Think about Twilio - they have a very robust codebase that users like us are able to connect to via API calls. (**API** stands for Application Programming Interface). The backends that we build in Ruby on Rails were APIs! You wrote a bunch of code that your front end was able to connect to to retrieve or effect data. Many of you also connected to external APIs for your capstone projects! 
+I struggled to put together ideas for backend APIs - there's a good chance I fill this in more in the coming days/weeks, but for now I will leave this section relativley bare. So many companies these days have built their business models around APIs as a product. Think about Twilio - they have a very robust codebase that users like us are able to connect to via API calls. (**API** stands for Application Programming Interface). The backends that we built in Ruby on Rails were APIs! You wrote a bunch of Ruby code that your frontend was able to connect to, to retrieve or effect data. Many of you also connected to external APIs for your capstone projects! 
 
 If you're at all interested in building out backend applications (i.e. APIs that either you or others can access) I encourage you to read more about what it means to build a good API.  
 
