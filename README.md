@@ -95,7 +95,7 @@ Using the frontend framework/libray of your choice, build an **SPA** (single pag
 ___
 #### Build a Cryptocurrency application!
 
-Using the frontend framework/library **AND** JavaScript charting library of your choice, build an **SPA** (single page application) that connects to a [cryptocurrency API](https://github.com/public-apis/public-apis#currency-exchange) and allow the user to compare one or more currencies by entering a starting amount for a particular currency. *Make it your own!*
+Using the frontend framework/library **AND** JavaScript charting library of your choice, build an **SPA** (single page application) that connects to a [cryptocurrency API](https://github.com/public-apis/public-apis#currency-exchange) and allow the user to compare one or more currencies - include a graph for each crypto to show it's price history. *Make it your own!*
 
 ___
 #### Dealer's Choice! 
