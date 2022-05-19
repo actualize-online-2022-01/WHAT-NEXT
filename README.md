@@ -1,5 +1,7 @@
-# Where to go from here
+# Where to go from here!
+
 ![What now?](https://media.makeameme.org/created/sooo-what-now.jpg)
+
 It can be hard to know how to keep practicing once the bootcamp is over! We’ve spent the last two weeks exclusively working on our Capstone projects, and we spent the four weeks before that planning them But…now what?! It’s essential to keep practicing not only your whiteboarding skills, but also your language and frameworks skills too! And the best way to do that is by working on projects that interest YOU.
 
 An added benefit of working on coding projects is that you can (and should!) add them to your portfolio and to your resume. A lot of students have a hard time with this though - I know I did! What should I build? Where should I start? I definitely had assistance on my capstone project, and I was unsure of what I could accomplish on my own!
