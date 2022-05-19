@@ -61,9 +61,9 @@ If you're at all interested in building out backend applications (i.e. APIs that
 ## Frontend Applications (no backend!)
 
 *(Please note, some API will require you to create a backend to make your API calls)*
-
-#### Build A Weather app!
 ___
+#### Build A Weather app!
+
 Using the frontend framework/library of your choice, connect to a [weather API](https://github.com/public-apis/public-apis#weather) and build out the following capabilities:
 
  - A route/page for the Daily Forcast
@@ -75,8 +75,9 @@ This app should allow the user to input their location (zipcode/city/address, et
 
  - Include different CSS and JavaScript elements to show different images based on the weather: i.e. if it’s sunny, show an image of a sun/sunny day, if it’s raining, show rain, etc, etc
 
-#### Build a Dictionary/Thesaurus app!
 ___
+#### Build a Dictionary/Thesaurus app!
+
 Using the frontend framework/library of your choice, connect to a [dictionary API](https://github.com/public-apis/public-apis#dictionaries) and build out the following capabilities:
 
 - Allow the user to search for a word's definition, include a search bar that allows the user to input the word they’re looking to define.
@@ -86,17 +87,19 @@ Using the frontend framework/library of your choice, connect to a [dictionary AP
 - **Bonus:** Include the word's pronunciation - show the user the correct pronunciation, and include an audio clip!
 - **Bonus:** show the user the word in different languages!
 
-#### Build a currency converter/exchange app!
 ___
+#### Build a currency converter/exchange app!
+
 Using the frontend framework/libray of your choice, build an **SPA** (single page application) that connects to a [currency API](https://github.com/public-apis/public-apis#currency-exchange) and allow the user to compare one or more currencies by entering a starting amount for a particular currency. *Make it your own!*
 
-#### Build a Cryptocurrency application!
 ___
+#### Build a Cryptocurrency application!
+
 Using the frontend framework/library **AND** JavaScript charting library of your choice, build an **SPA** (single page application) that connects to a [cryptocurrency API](https://github.com/public-apis/public-apis#currency-exchange) and allow the user to compare one or more currencies by entering a starting amount for a particular currency. *Make it your own!*
 
-
-#### Dealer's Choice! 
 ___
+#### Dealer's Choice! 
+
 There are so many great (read: FREE) APIs available, I encourge you to spend some time looking through a few of these resources to find some inspiration: 
 
 - [apilist.fun](https://apilist.fun/)
@@ -106,7 +109,7 @@ There are so many great (read: FREE) APIs available, I encourge you to spend som
 ## Fullstack Applications
 
 #### Hiking Application ([view schema](https://docs.google.com/spreadsheets/d/1ilBbMvdKGO9ttQPbR1ib5LCwh6i2Y9_FiLL_mSLRR78/edit#gid=0))
-___
+
 Create a fullstack application in your prefered languages/frameworks that connects to a hiking/trail API. A good example is the [Hiker API](https://documenter.getpostman.com/view/2071749/RzZDiGp8), but feel free to use a different API OR create one yourself! This app should show/allow a user to: 
 
 - Sign up (CREATE User)
@@ -126,9 +129,9 @@ Create a fullstack application in your prefered languages/frameworks that connec
 - **Bonus: Show trail location on a map**
 - **Bonus: Allow user search with a search bar**
 - **Bonus: Deploy your Application!**
-
-#### Cookbook Application ([view schema](https://docs.google.com/spreadsheets/d/1ilBbMvdKGO9ttQPbR1ib5LCwh6i2Y9_FiLL_mSLRR78/edit#gid=1530641594))
 ___
+#### Cookbook Application ([view schema](https://docs.google.com/spreadsheets/d/1ilBbMvdKGO9ttQPbR1ib5LCwh6i2Y9_FiLL_mSLRR78/edit#gid=1530641594))
+
 Create a fullstack Cookbook Application in your prefered languages/frameworks! This app should show/allow a user to:
 
 - Sign up (CREATE User)
@@ -151,9 +154,9 @@ Create a fullstack Cookbook Application in your prefered languages/frameworks! T
 - **Bonus: Deploy your Application!**
 
 
-
-#### Make a Clone!  
 ___
+#### Make a Clone!  
+
 Is there a website you like? Try to make a *(SIMPLE)* clone of it! Do your best to create a schema (really good practice!) and include the has_many/belongs_to relationships. [*I'm happy to review your schemas!*]
 
 
