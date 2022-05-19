@@ -29,10 +29,10 @@ Now’s the time to work on your personal website to make it the best it can be!
  - There are no sections with empty content, blank photos, or broken code
  - REMEMBER: less is more - don’t add content to just “add content”. Make it work for you!  
 Some examples:
---   [https://www.caseycantrell.com/](https://www.caseycantrell.com/)
---  [https://patricknikolaus.github.io/](https://patricknikolaus.github.io/)
---  [https://ikarabulut.github.io/](https://ikarabulut.github.io/)
--- [https://www.katevansdev.com/](https://www.katevansdev.com/)  (*My site is RIDICULOUSLY plain and simple - it doesn’t need to be long and/or flashy, simple websites are better than larger ones with useless or incomplete content!*)
+- [https://www.caseycantrell.com/](https://www.caseycantrell.com/)
+- [https://patricknikolaus.github.io/](https://patricknikolaus.github.io/)
+- [https://ikarabulut.github.io/](https://ikarabulut.github.io/)
+- [https://www.katevansdev.com/](https://www.katevansdev.com/)  (*My site is RIDICULOUSLY plain and simple - it doesn’t need to be long and/or flashy, simple websites are better than larger ones with useless or incomplete content!*)
 
 
 ## 3. Keep working on your capstone project:
