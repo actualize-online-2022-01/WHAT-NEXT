@@ -4,7 +4,7 @@
 
 It can be hard to know how to keep practicing once the bootcamp is over! We’ve spent the last two weeks exclusively working on our Capstone projects, and we spent the four weeks before that planning them But…now what?! It’s essential to keep practicing not only your whiteboarding skills, but also your language and frameworks skills too! And the best way to do that is by working on projects that interest YOU.
 
-An added benefit of working on coding projects is that you can (and should!) add them to your portfolio and to your resume. A lot of students have a hard time with this though - I know I did! What should I build? Where should I start? I definitely had assistance on my capstone project, and I was unsure of what I could accomplish on my own!
+An added benefit of working on coding projects is that you can (and should!) add them to your portfolio and to your resume. A lot of students have a hard time with this though - I know I did! What should I build? Where should I start? I definitely had assistance on my capstone project, and I was unsure of what I could accomplish on my own.
 
 Well, the first thing to realize is that, even though you’ve graduated from the bootcamp, you’re not on your own! There is a HUGE community of Actualize graduates you have access to, including Actualize tech leads that are available to you when you need them. I’m also available! While I may not be as responsive as I was during the program, PLEASE don’t hesitate to reach out to me if you’re struggling with what to do or where to go next. We can have a conversation and make a game plan to get you on track. BUT in the meantime, here is a collection of project ideas to keep you inspired and working towards a robust portfolio:
 
