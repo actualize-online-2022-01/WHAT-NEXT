@@ -116,18 +116,18 @@ Create a fullstack application in your prefered languages/frameworks that connec
 - Login (CREATE session)
 - Logout
 - Display all hiking trails (*User should **NOT** need to be logged in to see trail information!*)
-- Show one hiking trail (with all ratings and comments from any user for that hiking trail)
+- Show one hiking trail (with all ratings and comments from any user for that hiking trail - User should NOT need to be logged in)
 - Save and/or favorite hiking trails (ONLY if user is logged in)
 - Show all favorite hiking trails (ONLY if user is logged in)
 - Delete a hiking trail from favorites (ONLY if user is logged in and ONLY for THEIR favorites list)
 - Add rating to hiking trails (ONLY if user is logged in)
 - Update rating for hiking trail (ONLY if user is logged in and ONLY if it’s their rating)
 - Delete rating for hiking trail (ONLY if user is logged in and ONLY if it’s their rating)
-- Add comment to hiking trails (ONLY if user is logged in)
+- Add a comment to hiking trails (ONLY if user is logged in)
 - Update comment for hiking trail (ONLY if user is logged in and ONLY if the comment belongs to them)
 - Delete comment for hiking trail (ONLY if user is logged in and ONLY if the comment belongs to them)
-- **Bonus: Show trail location on a map**
-- **Bonus: Allow user search with a search bar**
+- **Bonus: Show trail location on a map by integrating with a Map API**
+- **Bonus: Allow user search for hikes with a search bar**
 - **Bonus: Deploy your Application!**
 ___
 #### Cookbook Application ([view schema](https://docs.google.com/spreadsheets/d/1ilBbMvdKGO9ttQPbR1ib5LCwh6i2Y9_FiLL_mSLRR78/edit#gid=1530641594))
@@ -142,13 +142,13 @@ Create a fullstack Cookbook Application in your prefered languages/frameworks! T
 - Create a recipe (ONLY if the user logged in)
 - Update a recipe (ONLY if the user is logged in AND the recipe belongs to them)
 - Delete a recipe (ONLY if a user is logged in and the recipe belongs to them)
-- Show **ALL** ingredients for specific recipe
+- Show **ALL** ingredients for/with a specific recipe 
 - Create an ingredient (ONLY if the user is logged in. Ingredient *must* be tied to a recipe)
 - Update an ingredient (ONLY if the user is logged in. Ingredient *must* be tied to a recipe)
 - Delete an ingredient (ONLY if the user is logged in. Ingredient *must* be tied to a recipe)
 - Show **ALL** directions for specific recipe
 - Create directions (ONLY if the user is logged in. Direction *must* be tied to a recipe)
-- Update a direction (ONLY if the user is logged in. Direction*must* be tied to a recipe)
+- Update a direction (ONLY if the user is logged in. Direction *must* be tied to a recipe)
 - Delete a direction (ONLY if the user is logged in. Direction *must* be tied to a recipe)
 - **Bonus: Install a (free) theme or style using bootstrap**
 - **Bonus: Deploy your Application!**
