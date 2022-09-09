@@ -15,7 +15,7 @@ Well, the first thing to realize is that, even though you’ve graduated from th
 **30 Day Vanilla JS Coding Challenge** - by *Wes Bos*
 Wes Bos is a Fullstack JavaScript developer and host of the excellent [Syntax](https://syntax.fm/) podcast (definitely worth a listen!) His free course will take you through learning some of the VERY cool things you can accomplish with Vanilla Javascript, and they make great portfolio projects! 
 
-#### [DevProjects]([https://courses.alexgama.io/course?courseid=ruby-coding-challenges-course](https://www.codementor.io/projects/ruby))
+#### [DevProjects](https://courses.alexgama.io/course?courseid=ruby-coding-challenges-course)
 **This is a new website I found and I LOVE it so far - super cool**
 Designed to help you imporve your Ruby coding skills and your project scope and management skills, these are awesome projects to add to your portfolio and ways to stay sharp with Ruby!
 
